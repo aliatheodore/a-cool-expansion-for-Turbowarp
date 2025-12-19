@@ -1,8 +1,10 @@
 //The file I posted is a bit large. It was made by me and Gemini. the file:
 {
+
+
+
   (function(Scratch) {
     'use strict';
-  
     if (!Scratch.extensions.unsandboxed) {
       throw new Error('All extension must run unsandboxed');
     }
